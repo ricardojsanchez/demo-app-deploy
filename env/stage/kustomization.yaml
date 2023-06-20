@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/ricardojsanchez/demo-app
+  newTag: 7ff59560c5ec17ab1897d3398778a0df8fb09fb0
