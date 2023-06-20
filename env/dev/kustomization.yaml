@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/ricardojsanchez/demo-app
-  newTag: latest
+  newTag: 86e7f7e3372c191a994b90b3b42ccac1de92f255
